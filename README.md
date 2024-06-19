@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Guanwu</h1>
 <h3 align="center">A passionate backend developer from China</h3>
 
-- 🌱 I’m currently learning **Node.js and MongoDB**
+- 🌱 I’m currently learning **Node.js and MongoDB and**
 
 - 📫 How to reach me **guanwu0901@gmail.com**
 
